@@ -1,0 +1,7 @@
+dbuser = 'root'
+dbpassword = ''
+dbname = 'quizapp'
+dbhost = '127.0.0.1'
+debug = False
+secret = 'flask-auth'
+port = 8080
